@@ -38,7 +38,8 @@ Empar ha afegit el mètode que desitja: "Feliç Any Nou.  Pau i Salut per a tots
 #### AlumneFila1 PC1: 
 
 
-#### AlumneFila1 PC2:
+#### AlumneFila1 PC2: Nayara Beltrán Fuster
+Cambios realizados en el archivo .java para mostrar un mensaje con mi nombre y felicitando el año nuevo 
 
 
 #### AlumneFila1 PC3:
