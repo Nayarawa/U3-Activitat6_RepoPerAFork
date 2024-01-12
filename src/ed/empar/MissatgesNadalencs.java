@@ -19,7 +19,14 @@ public class MissatgesNadalencs {
 		// Fila1
 		AlumneFila1PC1();
 
-		AlumneFila1PC2();
+		AlumneFila1PC2(){
+                System.out.println("====================================");
+                System.out.println("Hola, soy Nayara Beltrán Fuster");
+                System.out.println("Feliz año nuevo y prosperidad!!!");
+                System.out.println(" Mi deseo es poder pasar más tiempo en familia");
+                System.out.println("====================================");
+                System.out.println();
+        };
 
 		AlumneFila1PC3();
 
